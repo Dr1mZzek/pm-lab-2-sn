@@ -15,3 +15,10 @@ Grupa studencka: WEL18DE1N1
 # Pytania do zadań z instrukcji
 W jaki sposób można rozbudować funkcjonalność programu w  przypadku  gdy  liczba  naciśnięć  przycisku  przekroczy  określoną  ilość?
 odp. Można rozbudować za pomocą dodania kolejnej pętli która będzie akywowana w przypadku gdy liczba naciśnięć przycisku przekrowczy określoną ilość. 
+
+ Wjaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów
+ odp. Dodać w else if  nową nazwę polecenia.
+Zwiększyć o kolejne else if (!strcmp(parmStr, "polecenie"))
+{
+   ....
+}
