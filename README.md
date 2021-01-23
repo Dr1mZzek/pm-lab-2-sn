@@ -13,4 +13,5 @@ Numer albumu: 73012
 Grupa studencka: WEL18DE1N1
 
 # Pytania do zadań z instrukcji
-
+W jaki sposób można rozbudować funkcjonalność programu w  przypadku  gdy  liczba  naciśnięć  przycisku  przekroczy  określoną  ilość?
+odp. Można rozbudować za pomocą dodania kolejnej pętli która będzie akywowana w przypadku gdy liczba naciśnięć przycisku przekrowczy określoną ilość. 
